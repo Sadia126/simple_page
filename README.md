@@ -11,7 +11,7 @@ The app includes authentication with **NextAuth.js**, a landing page, product li
    ```bash
    git clone https://github.com/Sadia126/simple_page.git
    cd simple_page
-````
+
 
 2. **Install dependencies**
 
@@ -48,7 +48,7 @@ The app includes authentication with **NextAuth.js**, a landing page, product li
 
    Open [http://localhost:3000](http://localhost:3000) with your browser.
 
----
+
 
 ## 📌 Route Summary
 
